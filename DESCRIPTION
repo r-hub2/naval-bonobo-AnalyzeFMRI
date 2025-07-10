@@ -23,7 +23,7 @@ Depends: R (>= 4.4.0), R.matlab, fastICA, tcltk
 Suggests: tkrplot
 Description: Functions for I/O, visualisation and analysis of functional Magnetic Resonance Imaging (fMRI) datasets stored in the ANALYZE or NIFTI format. Note that the latest version of XQuartz seems to be necessary under MacOS.
 License: GPL (>= 2)
-Packaged: 2025-07-10 05:23:33 UTC; lafaye
+Packaged: 2025-07-10 06:00:51 UTC; lafaye
 Copyright: For LAPACK/BLAS routines in src (Univ. of Tennessee, Univ.
         of California Berkeley, NAG Ltd., Courant Institute, Argonne
         National Lab, and Rice University).
